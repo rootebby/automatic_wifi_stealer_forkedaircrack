@@ -1,6 +1,6 @@
 import os
 
-print("Automatic Wİ-Fİ Stealer (works with wifite)")
+print("Automatic Wİ-Fİ Stealer (works with aircrack)")
 print("coded by root@ebby")
 print("This code is still on development")
 print("Any issues ? Contact me : 2003emirkanesme@gmail.com")
